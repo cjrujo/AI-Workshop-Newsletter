@@ -1,0 +1,4 @@
+baseURL = 'ai-workshop-newsletter.pages.dev'
+languageCode = 'en-us'
+title = 'ai-workshop-newsletter'
+theme = 'ananke'
