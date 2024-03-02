@@ -1,0 +1,24 @@
+baseURL = 'https://ai-workshop-newsletter.pages.dev/'
+languageCode = 'en-us'
+title = 'ai-workshop-newsletter'
+theme = 'ananke'
+
+enableEmoji = true
+
+[permalinks]
+  posts = "/posts/:year/:month/:day/:title/"
+  tutorials = "/tutorials/:year/:month/:day/:title/"
+
+[[menu.main]]
+  identifier = "posts"
+  name = "Posts"
+  weight = 10
+  url = "/posts/"
+
+[[menu.main]]
+  identifier = "tutorials"
+  name = "Tutorials"
+  weight = 20
+  url = "/tutorials/"
+ 
+ 
