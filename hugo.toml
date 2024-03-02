@@ -5,6 +5,10 @@ theme = 'ananke'
 
 enableEmoji = true
 
+[permalinks]
+  posts = "/posts/:year/:month/:day/:title/"
+  tutorials = "/tutorials/:year/:month/:day/:title/"
+
 [[menu.main]]
   identifier = "posts"
   name = "Posts"
