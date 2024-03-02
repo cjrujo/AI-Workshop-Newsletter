@@ -5,8 +5,16 @@ theme = 'ananke'
 
 enableEmoji = true
 
-[types]
-  posts = "posts"
-  tutorials = "tutorials"
+[[menu.main]]
+  identifier = "posts"
+  name = "Posts"
+  weight = 10
+  url = "/posts/"
+
+[[menu.main]]
+  identifier = "tutorials"
+  name = "Tutorials"
+  weight = 20
+  url = "/tutorials/"
  
  
