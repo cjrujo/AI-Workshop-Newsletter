@@ -1,94 +1,106 @@
 # AI-Workshop Daily Newsletter - 2024-03-02
-# AI工作坊日报 - 2024-03-02
-
-Welcome to today's edition of the AI-Workshop Daily Newsletter, where we dive into the latest advancements, regulations, and discussions surrounding artificial intelligence. Our goal is to keep you informed and engaged with the ever-evolving world of AI. Let's explore the highlights of today's AI landscape.
-欢迎阅读今日版的AI工作坊日报，在这里我们将深入探讨人工智能的最新进展、法规和讨论。我们的目标是让您了解并参与到不断发展的AI世界中。让我们一起探索今天AI领域的亮点。
 
 ---
 
-## [Court Decision Sets CPRA Regulations Enforcement for March 2024](https://iapp.org/news/a/court-decision-pushes-cpra-regulations-enforcement-to-march-2024/)
-## [法院决定将CPRA法规执行定于2024年3月](https://iapp.org/news/a/court-decision-pushes-cpra-regulations-enforcement-to-march-2024/)
+## [DHS Launches First-of-its-Kind Initiative to Hire 50 Artificial Intelligence Experts in 2024](https://www.dhs.gov/news/2024/02/06/dhs-launches-first-its-kind-initiative-hire-50-artificial-intelligence-experts-2024)
 
-In a significant development, the enforcement of CPRA regulations has been scheduled for March 2024. This pivotal moment offers an invaluable opportunity for business leaders, tech enthusiasts, and privacy professionals to deepen their understanding of AI governance and accountability. Join the conversation in Brussels to navigate the complexities of AI in the business realm.
-在一个重要的发展中，CPRA法规的执行已被安排在2024年3月。这一关键时刻为商业领袖、技术爱好者和隐私专业人士提供了一个宝贵的机会，深入了解AI的治理和责任。加入布鲁塞尔的对话，以导航商业领域中AI的复杂性。
+In an unprecedented move, the Department of Homeland Security aims to bolster its AI capabilities by hiring 50 top-tier AI experts in 2024. This strategic initiative is set to uncover over 300 previously unidentified victims with the aid of cutting-edge AI technology.
 
----
+## [国土安全部启动首创举措，计划在2024年聘请50名人工智能专家](https://www.dhs.gov/news/2024/02/06/dhs-launches-first-its-kind-initiative-hire-50-artificial-intelligence-experts-2024)
 
-## [Samsung Champions 'AI for All' at CES 2024](https://news.samsung.com/global/samsungs-ai-for-all-vision-unveiled-at-ces-2024)
-## [三星在2024年CES大会上倡导“人人皆可用的AI”](https://news.samsung.com/global/samsungs-ai-for-all-vision-unveiled-at-ces-2024)
-
-Samsung's latest strategy, unveiled at CES 2024, promises a future where AI technology enhances the safety, inclusivity, and energy efficiency of connected devices. Discover how Samsung is paving the way for a more accessible and sustainable digital world.
-三星在2024年CES大会上公布的最新战略承诺，未来的AI技术将提高连接设备的安全性、包容性和能效。探索三星如何为更易接近和可持续的数字世界铺平道路。
+在一个前所未有的举措中，国土安全部旨在通过在2024年聘请50名顶尖人工智能专家来增强其AI能力。这一战略性举措旨在借助尖端人工智能技术发现300多名以前未识别的受害者。
 
 ---
 
-## [Stay Ahead with the Latest AI News and Trends](https://www.artificialintelligence-news.com/)
-## [通过最新的AI新闻和趋势保持领先](https://www.artificialintelligence-news.com/)
+## [How 2024 Will Be A.I.'s 'Leap Forward'](https://www.nytimes.com/2024/01/08/technology/ai-robots-chatbots-2024.html)
 
-Your go-to source for the freshest AI news and insights. From groundbreaking industry research to the frontline of AI technology developments, we've got you covered. Keep abreast of the trends shaping the future of AI.
-您获取最新AI新闻和见解的首选来源。从开创性的行业研究到AI技术发展的前沿，我们都会为您提供。紧跟塑造AI未来的趋势。
+The New York Times highlights 2024 as the year AI takes a monumental leap forward. Expect to see chatbots evolve beyond text, gaining the ability to process and interpret photos, videos, diagrams, charts, and more, enriching user interactions like never before.
 
----
+## [2024年将是人工智能“飞跃”的一年](https://www.nytimes.com/2024/01/08/technology/ai-robots-chatbots-2024.html)
 
-## [GTC 2024: Where AI Meets Healthcare Innovation](https://www.nvidia.com/gtc/)
-## [GTC 2024: AI与医疗创新相遇之处](https://www.nvidia.com/gtc/)
-
-NVIDIA's GTC 2024 conference is set to redefine the boundaries of healthcare delivery through generative AI technologies. Discover how AI is not just a tool but a critical driver in the quest for new medicines and improved healthcare services.
-NVIDIA的GTC 2024会议旨在通过生成式AI技术重新定义医疗服务的界限。探索AI如何不仅仅是一个工具，而是在寻求新药物和改善医疗服务过程中的关键驱动力。
+纽约时报强调，2024年将是人工智能取得重大飞跃的一年。预计看到聊天机器人超越文本，获得处理和解释照片、视频、图表、图表等能力，以前所未有的方式丰富用户互动。
 
 ---
 
-## [Lenovo's AI-Powered Revolution at CES 2024](https://news.lenovo.com/pressroom/press-releases/ai-powered-creativity-productivity-devices-solutions-ces-2024/)
-## [联想在2024年CES大会上的AI驱动革命](https://news.lenovo.com/pressroom/press-releases/ai-powered-creativity-productivity-devices-solutions-ces-2024/)
+## [10 AI Predictions For 2024](https://www.forbes.com/sites/robtoews/2023/12/21/10-ai-predictions-for-2024/)
 
-Lenovo is taking CES 2024 by storm with over 40 new AI-powered devices and solutions. Explore how Lenovo is integrating AI to boost creativity and productivity in the digital age.
-联想在2024年CES大会上以超过40种新的AI驱动设备和解决方案风靡一时。探索联想如何在数字时代整合AI以提升创造力和生产力。
+Forbes unveils 10 groundbreaking predictions for AI in 2024, spotlighting transformers as the linchpin technology that will continue to drive AI's evolution and application across diverse sectors.
 
----
+## [2024年的10大人工智能预测](https://www.forbes.com/sites/robtoews/2023/12/21/10-ai-predictions-for-2024/)
 
-## [Europe's Strategic Move in Artificial Intelligence](https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence)
-## [欧洲在人工智能领域的战略举措](https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence)
-
-The European Commission is spearheading the advancement of AI capabilities with its new calls for proposals under the 2023-2024 Work Programmes of the Digital Europe Programme. Dive into Europe's strategic approach to shaping its digital future with AI.
-欧洲委员会正在通过其2023-2024年数字欧洲计划的工作计划下的新提案呼吁，引领AI能力的提升。深入了解欧洲利用AI塑造其数字未来的战略方法。
+福布斯公布了2024年人工智能的10项开创性预测，强调变压器作为关键技术，将继续推动人工智能在各个领域的发展和应用。
 
 ---
 
-## [Big Data & AI World 2024: A Hub of Innovation](https://www.bigdataworld.com/)
-## [2024大数据与AI世界：创新中心](https://www.bigdataworld.com/)
+## [Governor Hochul Unveils Fifth Proposal of 2024 State of the State: Empire AI Consortium to Make New York a Global AI Leader](https://www.governor.ny.gov/news/governor-hochul-unveils-fifth-proposal-2024-state-state-empire-ai-consortium-make-new-york)
 
-Join us at the forefront of technological innovation at the UK's premier Big Data and AI event. Secure your free ticket today and experience the cutting-edge for yourself.
-加入我们，在英国首屈一指的大数据和AI活动中站在技术创新的前沿。立即获取您的免费门票，亲身体验尖端技术。
+Governor Hochul's ambitious proposal for the Empire AI Consortium aims to catapult New York to the forefront of global AI leadership. This initiative is a testament to New York's commitment to fostering innovation and excellence in AI technology.
 
----
+## [霍楚尔州长公布2024年州情咨文的第五项提案：帝国人工智能联盟将使纽约成为全球人工智能领导者](https://www.governor.ny.gov/news/governor-hochul-unveils-fifth-proposal-2024-state-state-empire-ai-consortium-make-new-york)
 
-## [Philips Leads with MRI Software Innovations](https://www.itnonline.com/)
-## [飞利浦以MRI软件创新领先](https://www.itnonline.com/)
-
-Royal Philips continues to dominate the health technology sector with its latest MRI software innovations, marking a new era in medical imaging as of March 1, 2024.
-皇家飞利浦继续凭借其最新的MRI软件创新主导健康技术领域，标志着2024年3月1日医学成像的新时代。
+霍楚尔州长对帝国人工智能联盟的雄心勃勃提案旨在将纽约推向全球人工智能领导地位的前沿。这一倡议证明了纽约致力于在人工智能技术上培养创新和卓越。
 
 ---
 
-## [Elon Musk's Legal Battle with OpenAI](https://www.theguardian.com/technology/artificialintelligenceai)
-## [埃隆·马斯克与OpenAI的法律战](https://www.theguardian.com/technology/artificialintelligenceai)
+## [3 Big AI Trends to Watch in 2024](https://news.microsoft.com/three-big-ai-trends-to-watch-in-2024/)
 
-In a controversial move, Elon Musk has filed a lawsuit against OpenAI, accusing the organization of prioritizing profit over safety and ethics in AI development. Stay updated on this developing story.
-在一项有争议的举动中，埃隆·马斯克对OpenAI提起诉讼，指控该组织在AI开发中将利润置于安全和伦理之上。请关注这一发展中的故事。
+Microsoft sheds light on three pivotal AI trends set to redefine the landscape in 2024. Among these, the development of AI solutions to support farmers and boost agricultural productivity stands out, promising a new era of efficiency and sustainability.
 
----
+## [2024年值得关注的三大人工智能趋势](https://news.microsoft.com/three-big-ai-trends-to-watch-in-2024/)
 
-## [2024: The Year of AI at UT](https://news.utexas.edu/2024/01/23/ut-designates-2024-the-year-of-ai/)
-## [2024：德克萨斯大学的AI之年](https://news.utexas.edu/2024/01/23/ut-designates-2024-the-year-of-ai/)
-
-The University of Texas designates 2024 as 'The Year of AI,' promising a year filled with signature events, stories, and opinions that highlight the latest developments in AI. Be part of the conversation on science, technology, and health.
-德克萨斯大学将2024年定为“AI之年”，承诺这一年将充满标志性事件、故事和观点，凸显AI的最新发展。成为科学、技术和健康对话的一部分。
+微软着眼于三个关键的人工智能趋势，这些趋势将在2024年重新定义行业格局。其中，开发支持农民和提高农业生产力的人工智能解决方案尤为突出，预示着效率和可持续性的新时代。
 
 ---
 
-We hope you found today's newsletter insightful and engaging. For feedback or inquiries, feel free to [contact us](mailto:ai-workshop-newsletter@devctr.xyz). Stay tuned for more updates and discussions in the world of artificial intelligence.
-我们希望您发现今天的新闻通讯富有洞察力和吸引力。如有反馈或查询，请随时[联系我们](mailto:ai-workshop-newsletter@devctr.xyz)。请继续关注人工智能世界中更多的更新和讨论。
+## [AI in 2024: Five Trends Workers Need to Know](https://www.bbc.com/worklife/article/20240104-ai-in-2024-five-trends-workers-need-to-know)
+
+The BBC explores five essential AI trends in 2024 that will significantly influence the workforce. Key highlights include the drive towards increased inclusivity, fair hiring practices, and the emergence of AI-centric workplaces.
+
+## [2024年人工智能：五大趋势员工需要了解](https://www.bbc.com/worklife/article/20240104-ai-in-2024-five-trends-workers-need-to-know)
+
+BBC探讨了2024年五个关键的人工智能趋势，这些趋势将对劳动力产生重大影响。主要亮点包括推动更大的包容性、公平的招聘实践以及以人工智能为中心的工作场所的出现。
+
+---
+
+## [WHO Releases AI Ethics and Governance Guidance for Large Multi-modal Models](https://www.who.int/news/item/18-01-2024-who-releases-ai-ethics-and-governance-guidance-for-large-multi-modal-models)
+
+The World Health Organization introduces new guidelines on AI ethics and governance, focusing on the transformative potential of generative AI technologies in enhancing global healthcare systems.
+
+## [世界卫生组织发布大型多模态模型的人工智能伦理和治理指南](https://www.who.int/news/item/18-01-2024-who-releases-ai-ethics-and-governance-guidance-for-large-multi-modal-models)
+
+世界卫生组织推出了关于人工智能伦理和治理的新指南，重点关注生成式人工智能技术在提升全球卫生保健系统方面的变革潜力。
+
+---
+
+## [CES 2024: SK Showcases World-class AI and Clean Technologies](https://eng.sk.com/news/ces-2024-sk-to-showcase-world-class-carbon-reduction-and-ai-technologies)
+
+At CES 2024, SK Group unveils the latest breakthroughs in AI and clean technologies, underscoring their dedication to reducing carbon emissions and pioneering sustainable solutions.
+
+## [CES 2024：SK展示世界级人工智能和清洁技术](https://eng.sk.com/news/ces-2024-sk-to-showcase-world-class-carbon-reduction-and-ai-technologies)
+
+在CES 2024上，SK集团展示了人工智能和清洁技术的最新突破，强调了他们致力于减少碳排放和开发可持续解决方案的决心。
+
+---
+
+## [Technology Industry to Combat Deceptive Use of AI in 2024 Elections](https://news.microsoft.com/2024/02/16/technology-industry-to-combat-deceptive-use-of-ai-in-2024-elections/)
+
+Leading technology firms unite at the Munich Security Conference to address the ethical challenges posed by AI in the 2024 elections, committing to fight against its deceptive applications.
+
+## [技术行业将在2024年选举中抗击人工智能的欺骗性使用](https://news.microsoft.com/2024/02/16/technology-industry-to-combat-deceptive-use-of-ai-in-2024-elections/)
+
+在慕尼黑安全会议上，领先的技术公司联合起来，应对2024年选举中人工智能带来的伦理挑战，承诺抗击其欺骗性应用。
+
+---
+
+## [5 Things to Know About AI and Emerging Tech at Davos 2024](https://www.weforum.org/agenda/2024/01/surprising-things-to-know-about-ai-and-emerging-technology-at-davos-2024/)
+
+The World Economic Forum at Davos 2024 delves into the disruptive capabilities of AI and emerging technologies, tackling a wide array of critical issues and setting the stage for future innovations.
+
+## [达沃斯2024年关于人工智能和新兴技术的5件事](https://www.weforum.org/agenda/2024/01/surprising-things-to-know-about-ai-and-emerging-technology-at-davos-2024/)
+
+2024年世界经济论坛深入探讨了人工智能和新兴技术的颠覆性能力，解决了一系列关键问题，为未来的创新奠定了基础。
+
+---
 
 **Email:** [Contact Us](mailto:ai-workshop-newsletter@devctr.xyz)
-**邮箱:** [联系我们](mailto:ai-workshop-newsletter@devctr.xyz)
 ```
