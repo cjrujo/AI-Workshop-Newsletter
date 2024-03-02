@@ -2,3 +2,11 @@ baseURL = 'https://ai-workshop-newsletter.pages.dev/'
 languageCode = 'en-us'
 title = 'ai-workshop-newsletter'
 theme = 'ananke'
+
+enableEmoji = true
+
+[types]
+  posts = "posts"
+  tutorials = "tutorials"
+ 
+ 
