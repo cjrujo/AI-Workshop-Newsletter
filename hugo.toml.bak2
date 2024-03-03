@@ -2,9 +2,9 @@ baseURL = 'https://ai-workshop-newsletter.pages.dev/'
 languageCode = 'en-us'
 title = 'ai-workshop-newsletter'
 theme = 'ananke'
-#sortDesc = true
-#recentPostsSortOrder = "desc"
-#recentPostsSortBy = "PublishDate"
+sortDesc = true
+recentPostsSortOrder = "desc"
+recentPostsSortBy = "PublishDate"
 
 enableEmoji = true
 # Pagination settings
@@ -31,15 +31,15 @@ paginate = 10  # Set the number of posts per page
   [params.contact]
     email = 'ai-workshop-newsletter@devctr.xyz'
 
-#[frontmatter]
-#  date = ["date", ":default"]
-#  lastmod = ["lastmod", ":default"]
-#  draft = ["draft", ":default"]
-#  publishdate = ["publishdate", ":default"]
-#  expiryDate = ["expiryDate", ":default"]
-#  weight = ["weight", ":default"]
-#  aliases = ["aliases", ":default"]
-#  slug = ["slug", ":filename"]
+[frontmatter]
+  date = ["date", ":default"]
+  lastmod = ["lastmod", ":default"]
+  draft = ["draft", ":default"]
+  publishdate = ["publishdate", ":default"]
+  expiryDate = ["expiryDate", ":default"]
+  weight = ["weight", ":default"]
+  aliases = ["aliases", ":default"]
+  slug = ["slug", ":filename"]
 
 
   

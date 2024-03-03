@@ -2,11 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/posts/2024-03-04_newsletter_1/</loc>
+    <lastmod>2024-03-04T02:05:58+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-03-04T02:05:58+00:00</lastmod>
+    <lastmod>2024-03-04T02:05:58+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-03-04T02:05:58+00:00</lastmod>
+    <lastmod>2024-03-04T02:05:58+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2024-03-03_newslette_1/</loc>
     <lastmod>2024-03-03T16:08:50+08:00</lastmod>
