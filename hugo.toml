@@ -2,6 +2,7 @@ baseURL = 'https://ai-workshop-newsletter.pages.dev/'
 languageCode = 'en-us'
 title = 'ai-workshop-newsletter'
 theme = 'ananke'
+sortDesc = true
 
 enableEmoji = true
 # Pagination settings
@@ -18,13 +19,15 @@ paginate = 10  # Set the number of posts per page
   name = "Tutorials"
   weight = 20
   url = "/tutorials/"
-  
+
 # Sort order for posts (newest first)
 [params]
+  recentPostsSortBy = "PublishDate"
+  recentPostsSortOrder = "desc"
   #[permalinks]
     #posts = "/:year/:month/:day/:slug/"
   [params.contact]
-    email = 'info@example.org'
+    email = 'ai-workshop-newsletter@devctr.xyz'
 
 [frontmatter]
   date = ["date", ":default"]
