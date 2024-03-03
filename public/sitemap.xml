@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ai-workshop-newsletter.pages.dev/posts/2024-03-01_newsletter_1/</loc>
+    <loc>http://localhost:1313/posts/2024-03-01_newsletter_1/</loc>
   </url><url>
-    <loc>https://ai-workshop-newsletter.pages.dev/posts/2024-03-02_newsletter_1/</loc>
+    <loc>http://localhost:1313/posts/2024-03-02_newsletter_1/</loc>
   </url><url>
-    <loc>https://ai-workshop-newsletter.pages.dev/posts/2024-03-02_newsletter_2/</loc>
+    <loc>http://localhost:1313/posts/2024-03-02_newsletter_2/</loc>
   </url><url>
-    <loc>https://ai-workshop-newsletter.pages.dev/posts/2024-03-02_newsletter_3/</loc>
+    <loc>http://localhost:1313/posts/2024-03-02_newsletter_3/</loc>
   </url><url>
-    <loc>https://ai-workshop-newsletter.pages.dev/posts/2024-03-03_newslette_1r/</loc>
+    <loc>http://localhost:1313/posts/2024-03-03_newslette_1/</loc>
   </url><url>
-    <loc>https://ai-workshop-newsletter.pages.dev/tutorials/000_table_of_content/</loc>
+    <loc>http://localhost:1313/tutorials/000_table_of_content/</loc>
   </url><url>
-    <loc>https://ai-workshop-newsletter.pages.dev/tutorials/002_machine__deep_learning/</loc>
+    <loc>http://localhost:1313/tutorials/002_machine__deep_learning/</loc>
   </url><url>
-    <loc>https://ai-workshop-newsletter.pages.dev/tutorials/003_llm_basic/</loc>
+    <loc>http://localhost:1313/tutorials/003_llm_basic/</loc>
   </url><url>
-    <loc>https://ai-workshop-newsletter.pages.dev/tutorials/004_llm_prompt_engineering/</loc>
+    <loc>http://localhost:1313/tutorials/004_llm_prompt_engineering/</loc>
   </url><url>
-    <loc>https://ai-workshop-newsletter.pages.dev/</loc>
+    <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>https://ai-workshop-newsletter.pages.dev/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://ai-workshop-newsletter.pages.dev/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
   </url><url>
-    <loc>https://ai-workshop-newsletter.pages.dev/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>https://ai-workshop-newsletter.pages.dev/tutorials/</loc>
+    <loc>http://localhost:1313/tutorials/</loc>
   </url>
 </urlset>

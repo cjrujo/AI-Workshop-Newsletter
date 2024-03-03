@@ -4,6 +4,8 @@ title = 'ai-workshop-newsletter'
 theme = 'ananke'
 
 enableEmoji = true
+# Pagination settings
+paginate = 10  # Set the number of posts per page
 
 [[menu.main]]
   identifier = "posts"
@@ -16,5 +18,25 @@ enableEmoji = true
   name = "Tutorials"
   weight = 20
   url = "/tutorials/"
+  
+# Sort order for posts (newest first)
+[params]
+  #[permalinks]
+    #posts = "/:year/:month/:day/:slug/"
+  [params.contact]
+    email = 'info@example.org'
+
+[frontmatter]
+  date = ["date", ":default"]
+  lastmod = ["lastmod", ":default"]
+  draft = ["draft", ":default"]
+  publishdate = ["publishdate", ":default"]
+  expiryDate = ["expiryDate", ":default"]
+  weight = ["weight", ":default"]
+  aliases = ["aliases", ":default"]
+  slug = ["slug", ":filename"]
+
+
+  
  
  
