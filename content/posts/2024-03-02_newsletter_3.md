@@ -1,3 +1,8 @@
++++
+title = 'AI-Workshop Newsletter 2024-03-02'
+date = 2024-03-02T22:08:50+08:00
+draft = false
++++
 # AI-Workshop Daily Newsletter - 2024-03-02
 # AI工作坊日报 - 2024-03-02
 

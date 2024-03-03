@@ -1,3 +1,8 @@
++++
+title = 'AI-Workshop Newsletter 2024-03-01'
+date = 2024-03-01T16:08:50+08:00
+draft = false
++++
 # AI-Workshop Newsletter 2024-03-01
 
 ---

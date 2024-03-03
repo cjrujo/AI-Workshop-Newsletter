@@ -3,6 +3,8 @@ languageCode = 'en-us'
 title = 'ai-workshop-newsletter'
 theme = 'ananke'
 sortDesc = true
+recentPostsSortOrder = "desc"
+recentPostsSortBy = "PublishDate"
 
 enableEmoji = true
 # Pagination settings
@@ -22,8 +24,8 @@ paginate = 10  # Set the number of posts per page
 
 # Sort order for posts (newest first)
 [params]
-  recentPostsSortBy = "PublishDate"
-  recentPostsSortOrder = "desc"
+  #recentPostsSortBy = "PublishDate"
+  #recentPostsSortOrder = "desc"
   #[permalinks]
     #posts = "/:year/:month/:day/:slug/"
   [params.contact]
