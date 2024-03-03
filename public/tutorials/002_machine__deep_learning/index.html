@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-us">
-  <head>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
@@ -34,7 +34,7 @@ https://speech.ee.ntu.edu.tw/~hylee/index.php
     
 
     
-      <link rel="canonical" href="https://ai-workshop-newsletter.pages.dev/tutorials/002_machine__deep_learning/">
+      <link rel="canonical" href="http://localhost:1313/tutorials/002_machine__deep_learning/">
     
 
     <meta property="og:title" content="" />
@@ -44,7 +44,7 @@ https://speech.ee.ntu.edu.tw/~hylee/index.php
 什么是机器学习¶人类学习 $y=f(x)$人类学习所解决的问题是，已知 $x$，透过一个数学计算方程式（模型） $f$， 计算未知数 $y$ 的过程。机器学习 $y=f(x)$机器学习所解决的问题是，已知 $x$, $y$, 透过计算机迭代一个数学模型 $f$, 使 $f(x)$ 最接近 $y$的过程。简言之，人类学习过程中学习推理出来的数学模型，利用已知数和数学模型“求解未知数”。而机器学习则是透过已知输入与输出，“寻找一个数学模型”，使这个模型能处理相似的问题。以简单的线性方程式来表示，$y=b&#43;w*x$,其中${x,y}$分别是模型训练所需要的训练资料集中已知的输入和输出，${b,w}$则为bias（偏差）和weighting（权重），以二维线性方程式的物理意义，bias控制着直线的高度位置，weighting控制着直线的斜率，模型训练的目的，在于找出一组${b,w}$使测试资料集的$x$经过模型的计算，所得到的$\hat{y}$最接近于测试资料集中$x$所对应的$y$。机器如何学习（找出未知的方程式）¶综上节所述,机器学习,需要具备以下条件:
 已知的数据，通常称为training data，为了验证训练后模型是否可靠，通常会把已知的数据分为training data和test data两部分，第一部分用来训练模型，第二部分用来验证模型。训练的模型及其参数，前述简单的线性方程式$y=b&#43;w*x$，在模拟现实世界的问题时，会加上非线性函数，成为激活函数(activate function)，使模型更能贴近生活中绝大部分非线性的状况。常用的非线性activate function有Sigmoid $f(x) = \frac{1} {1 &#43; e^{-x}}$, ReLU $f(x) = max(0, x)$等。定义损失函数（L, loss function），$L{(w, b)}$用来评估模型计算结果和已知结果的差异，整个训练的过程在于缩小损失函数的差异。假设模型为$y=b&#43;w*x$，损失函数可以定义为$L(b,w)=\frac{1}{N} \sum_{n=1}^{N} e_n$其中$e$代表模型计算的结果$y$和已知的结果$\hat{y}$的差异，可以表示为：$e = |{y-\hat{y}}|$, $L$ 为MAE(Mean Absolute Error)或$e = ({y-\hat{y}})^2$, $L$ 为MSE(Mean Square Error)。训练迭代过程（Optimization），由于我们的目标是寻找Loss function的最小值，使得模型的计算结果最接近training和test data的已知结果，训练过程是先选择一个任意起始点（给定任意的$b$和$w$）,将Loss function对不同的参数（$b$ &amp; $w$）分别做偏微分，如果选定的起始点$w_0$,使用梯度下降方法迭代求Loss function的最小值。需要注意的是，迭代步进的距离$\eta$通常为经验值或是训练过程测试出来，在某些模型，有可能步伐跨大了，错过了最优解（global minima），也有可能步伐跨小了，走不出局部低点（local minima），请参考以下图解及AI解释，帮助理解。机器学习的流程如下图所示：每一轮训练更新模型参数，用更新后的参数再进行下一轮，直到迭代出满意的模型（通过训练和测试数据）,如果无法收敛，则需要修改模型设计并重新训练模型。机器学习模型（贴近实际应用）¶前面提到，简单的线性方程式不足以模拟实际案例，对于二元连续的曲线，我们需要结合多段的曲线来拟合实际的需求。前述的线性方程式$y = b &#43; w*x$ 会转换成如下的矩阵方程式，其中i为用来拟合的曲线数量，j为每条曲线的特征数量，叠加后的结果更接近机器学习适用的模型。将模型的input $x$, bias $b$, weighting $w$ 和 activate function $sigmoid$ 用图形节点表示出来如下图。当叠加更多层时，增加模型的参数变化，模型的拓扑图会如下图。" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://ai-workshop-newsletter.pages.dev/tutorials/002_machine__deep_learning/" /><meta property="article:section" content="tutorials" />
+<meta property="og:url" content="http://localhost:1313/tutorials/002_machine__deep_learning/" /><meta property="article:section" content="tutorials" />
 
 
 
@@ -7800,7 +7800,7 @@ predictions = new_model.predict(x_test)
     </main>
     <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
-  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://ai-workshop-newsletter.pages.dev/" >
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="http://localhost:1313/" >
     &copy;  ai-workshop-newsletter 2024 
   </a>
     <div>
