@@ -3,9 +3,9 @@ title = 'AI-Workshop Newsletter 2024-03-06'
 date = 2024-03-06T14:11:14+08:00
 draft = false
 +++
-# AI-Workshop Daily Newsletter - 2024-03-05
+# AI-Workshop Daily Newsletter - 2024-03-06
 
-# AI工作坊日报 - 2024-03-05
+# AI工作坊日报 - 2024-03-06
 
 ---
 
